@@ -1,4 +1,4 @@
-
+/* @pjs preload="3984-cuore-heart-clipart.png" */
 int X= 50;
 int Y= 300;
 int bounce= 1;
